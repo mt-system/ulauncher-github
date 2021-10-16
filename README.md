@@ -84,7 +84,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-## 💛 Support the project
+## 🥰 Support the project
 
 If this project was useful to you in some form, I would be glad to have your support.  It will help to keep the project alive and to have more time to work on Open Source.
 
@@ -104,6 +104,3 @@ Or if you prefer a one time donation to the project, you can simple:
 Copyright © 2021 [Thomas Milotti](https://github.com/milottit).
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-# TEST 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="milottit" data-description="Support me on Buy me a coffee!" data-message="Thanks for supporting me " data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
