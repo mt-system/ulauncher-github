@@ -1,5 +1,4 @@
-
-EXT_NAME:=com.github.com.brpaz.ulauncher-github
+EXT_NAME:=com.github.com.milottit.ulauncher-github
 EXT_DIR:=$(shell pwd)
 
 .PHONY: help lint format link unlink deps dev
